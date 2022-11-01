@@ -1,4 +1,8 @@
-# Fylo-data-storage-component
-Fylo data storage component - Frontend mentor challenge
+# Fylo data storage component
+##  [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
-![_D__Web%20Development__my%20project_Main%20projects_Frontend%20mentor%20-%20Fylo%20data%20storage%20component_index html](https://user-images.githubusercontent.com/95019708/170186323-18a59aae-1d7e-4815-a9a9-2352502c856f.png)
+### Responsive Storage Component Using HTML CSS & JavaScript.
+
+- Developed first for Desktop then for Mobile devices.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
